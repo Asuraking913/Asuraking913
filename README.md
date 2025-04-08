@@ -33,7 +33,7 @@
  
  [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=Aditya-1304&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
-[![Aditya Mandal's current streak](https://streak-stats.demolab.com/?user=Asuraking913&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+[![Israel's current streak](https://streak-stats.demolab.com/?user=Asuraking913&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
